@@ -79,4 +79,4 @@ Feel free to use and modify it for your language-learning projects.
 
 ### 💡 Author
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by cyttic
